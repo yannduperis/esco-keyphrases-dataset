@@ -48,6 +48,7 @@ between keyphrases.
 | Fr (skills)         | 0.7k                   | 4.6k                           |
 | En/Fr (occupations) | 4.4k                   | 44k                            |
 | En/Fr (skills)      | 11k                    | 114k                           |
+
 Table 1: description of the content of the data set
 
 # References
