@@ -38,6 +38,17 @@ between keyphrases.
 }
 ```      
 
+# Description
+
+| **Data set**        | **Evaluation queries** | **Keyphrases collection size** |
+|:-------------------:|:----------------------:|:------------------------------:|
+| En (occupations)    | 3.3k                   | 33k                            |
+| En (skills)         | 9.7k                   | 97k                            |
+| Fr (occupations)    | 1.7k                   | 11k                            |
+| Fr (skills)         | 0.7k                   | 4.6k                           |
+| En/Fr (occupations) | 4.4k                   | 44k                            |
+| En/Fr (skills)      | 11k                    | 114k                           |
+Table 1: description of the content of the data set
 
 # References
 **1.** Turney, P.D.: _Learning algorithms for keyphrase extraction. Information Retrieval_
