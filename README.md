@@ -23,7 +23,7 @@ between keyphrases.
       - `labels.txt`: keyphrases collection, **ID is line number, starting at 0** ;
       - `qrels.json`: keyphrases matching queries with relevance feedback
 
-```json
+```
 # qrels.json
 {
     [...]
